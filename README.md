@@ -148,3 +148,5 @@ AI-Financial-Intelligence/
 │       └── investment_recommendation.py
 │
 └── tests/
+# AI-stock-Forecasting-system
+AI powered stock price forecasting and market analysis system
