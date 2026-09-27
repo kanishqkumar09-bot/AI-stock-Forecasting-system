@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.env
+
+# Generated/cache files
+*.log
+
+# Large ML artifacts
+# models/
+
+# Large/raw datasets
+# data/
