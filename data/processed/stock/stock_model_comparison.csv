@@ -1,0 +1,5 @@
+Model,MAE,RMSE,MAPE
+Baseline,36.1782,51.2832,1.46
+Linear Regression,36.0109,51.0807,1.4
+Random Forest,114.9984,138.8094,4.75
+XGBoost,86.7333,106.849,3.54
